@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "B2.6 (HW-03)",
   "main": "index.js",
-  "scripts": {
-    "test": "node index.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EugeneVigonny/sf_site.git"
@@ -15,9 +12,12 @@
   "bugs": {
     "url": "https://github.com/EugeneVigonny/sf_site/issues"
   },
-  "homepage": "https://github.com/EugeneVigonny/sf_site#readme"
- 
+  "homepage": "https://github.com/EugeneVigonny/sf_site#readme",
   "scripts": {
-  "test": "jest"
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "29.7.0"
   }
 }
