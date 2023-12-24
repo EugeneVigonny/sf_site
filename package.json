@@ -16,4 +16,8 @@
     "url": "https://github.com/EugeneVigonny/sf_site/issues"
   },
   "homepage": "https://github.com/EugeneVigonny/sf_site#readme"
+ 
+  "scripts": {
+  "test": "jest"
+  }
 }
