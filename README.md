@@ -10,12 +10,8 @@ Working examples can be found in [the developer docs](https://www.youtube.com/wa
 
 - [Codebase](#Codebase)
 - [Install](#Install)
-  - [Development env](#Development env)
-  - [Project](#Project)
 - [Run](#Run)
-- [The development process](#The development process)
-  - [Naming rules](#Naming rules)
-  - [PR review](#PR review)
+- [Development](#Development)
 - [Deployment](#Deployment)
 
 <a name="Usage"></a>
@@ -57,7 +53,7 @@ To start the project, use the following command
  npm run start
 ```
 
-## The development process
+## Development
 
 The team has strict naming and review rules. Make sure that you follow all the points set out below before creating a PR
 
