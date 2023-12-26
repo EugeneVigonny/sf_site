@@ -1,6 +1,4 @@
-# sf_site
-
-# Prebid.js
+# HW.js
 
 > A free and open source library for homework (HW).
 
@@ -88,8 +86,10 @@ release/33.3
 Your pr title/commit must follow the https://www.conventionalcommits.org/en/v1.0.0/
 
 ### PR review
+> Please read https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.xa8lc4i23 to understand how a PR review should be conducted. 
 
-We take PR review seriously. Please read https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.xa8lc4i23 to understand how a PR review should be conducted. Be rational and strict in your review, make sure you understand exactly what the submitter's intent is.
+We take PR review seriously. Be rational and strict in your review, make sure you understand exactly what the submitter's intent is.
+
 
 To submit a ticket for review, you must complete a few simple steps
 
@@ -98,11 +98,11 @@ To submit a ticket for review, you must complete a few simple steps
 - Get a green check from [Mr.Jenkins](https://www.youtube.com/watch?v=o-YBDTqX_ZU)
 
 To merge your pr you must get **at least 2** approvals from the core development team
-All branches are merged to the main only via github UI with using squash (except for release branches)
+All branches are merged to the main only via GitHub UI with using squash (except for release branches)
 
 ## Deployment
 
-Instructions for the deployment:
+> Instructions for the deployment:
 
 1. Create release branch 
 2. Set the tag
